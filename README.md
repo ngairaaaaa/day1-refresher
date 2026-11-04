@@ -3,3 +3,6 @@
 Goal: Complete the Intro to Software Engineering course in 3 weeks.
 
 Started: October 30, 2026
+
+
+Day 3: I learned how branches work.
